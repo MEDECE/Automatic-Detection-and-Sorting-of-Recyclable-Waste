@@ -1,0 +1,6 @@
+train: C:/Users/Meder/PycharmProjects/PythonProject2/dataset/trainImages
+val: C:/Users/Meder/PycharmProjects/PythonProject2/dataset/valImages
+
+nc: 4
+names: ['aluminum','glass', 'HDEP', 'plastic']
+
