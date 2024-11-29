@@ -14,3 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+yolo task=detect mode=predict model=runs/detect/train16/weights/best.pt source=C:/Users/Meder/PycharmProjects/PythonProject3/dataset/carton.jpg
+
